@@ -1,9 +1,10 @@
 build:
   version: "1.0"
 app:
-  name: Accounts Prod Service
+  name: Accounts Prod Service Example
   version: 1.0.0
   build: 2025
 
   author: RamProd
+
 
