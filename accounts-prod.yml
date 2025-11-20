@@ -1,7 +1,8 @@
 build:
   version: "1.0"
 app:
-  name: Accounts Prod Service
+  name: Accounts Production Service
   version: 1.0.0
   build: 2025
+
   author: RamProd
