@@ -1,7 +1,0 @@
-build:
-  version: "2.0"
-app:
-  name: Accounts QA Service
-  version: 1.0.0
-  build: 2025
-  author: RamQA
